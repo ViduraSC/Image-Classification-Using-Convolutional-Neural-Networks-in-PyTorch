@@ -39,7 +39,7 @@ To set up this project locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ViduraSC/Image-Classification-Using-Convolutional-Neural-Networks-in-PyTorch
    cd project_folder
    ```
 
